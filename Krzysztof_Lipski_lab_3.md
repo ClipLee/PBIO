@@ -62,8 +62,11 @@ H2a2a1
 
 ## TASK 13
 
+Występuje mutacja S: Tranzycja - zamiana guaniny na adeninę
+
 ## TASK 14
 
+![Haplogroup frequency heatmap](haplogroup_frequency_heatmap.jpeg)
 ## TASK 15
 
 ## TASK 16
