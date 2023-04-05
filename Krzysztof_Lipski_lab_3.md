@@ -37,17 +37,28 @@ Pełne regiony podanego mDNA to HVR2 oraz HVR1.
 
 ## TASK 7
 
-a
+Znalazł markery HVR2, CR, HVR1
 
 ## TASK 8
 
+Marker genetyczny jest to cecha organizmu wykorzystywana do określenia jego genotypu. Może to być obecność lub brak jakiegoś genu lub białka, albo występowanie jakiejś szczególnej jego postaci. Markery genetyczne znajdują też zastosowanie do identyfikowania osób lub osobników zwierząt czy roślin .
+
 ## TASK 9
+
+Algorytm wykazał haplogrupę J1c7
 
 ## TASK 10
 
+rCRS to skrót od Revised Camridge Reference Sequence
+
 ## TASK 11
 
+H2a2a1
+
 ## TASK 12
+
+- Nr. EU151466.1
+- Narodowość: Francja, uniwersytet Hiszpański
 
 ## TASK 13
 
