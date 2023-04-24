@@ -90,9 +90,42 @@ Jest to baza zawierająca informacje na teamt haplogrupy chromosomu Y.
 
 ## TASK 20
 
+- Minimalny zestaw markerów dla inkluzji YHRD
+- Y12 - zestaw markerów pochodnych od PowerPlex Y
+- Y17 - zestaw markerów pochodnych od Yfiler
+- Y23 - zesttaw markerów pochodnych od PowerPlex 23
+- Y27 - zestaw makerów pochodnych od Yfiler Plus
+- Ymax - maerkerów reprezentujący wszystkie dostępne markery YHRD
+
 ## TASK 21
 
+Zaobserwowane allele dla markera DYS19 to:
+
+- 6,
+- 9,
+- 10
+- 11,
+- 12,
+- 13,
+- 13.2,
+- 13.3,
+- 14,
+- 14.1,
+- 14.2,
+- 14.3,
+- 15,
+- 15.2,
+- 16,
+- 16.2,
+- 17,
+- 18,
+- 19,
+- 19.1,
+- 20
+
 ## TASK 22
+
+Baza YHRD zawiera 106 025 haplotypów
 
 ## TASK 23
 
