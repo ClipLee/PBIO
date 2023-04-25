@@ -129,10 +129,42 @@ Baza YHRD zawiera 106 025 haplotypów
 
 ## TASK 23
 
+| Count | DYS391 | DYS389I | DYS439 | DYS389II | DYS438 | DYS437 | DYS19 | DYS392 | DYS393 | DYS390 | DYS385 |
+|-------|--------|---------|--------|----------|--------|--------|-------|--------|--------|--------|--------|
+| 295   | 10     | 13      | 10     | 30       | 11     | 14     | 17    | 11     | 13     | 25     | 10,14  |
+| 261   | 10     | 13      | 11     | 29       | 11     | 14     | 16    | 11     | 13     | 25     | 11,14  |
+| 138   | 10     | 13      | 10     | 30       | 11     | 14     | 16    | 11     | 13     | 25     | 11,14  |
+| 116   | 11     | 13      | 10     | 30       | 11     | 14     | 16    | 11     | 13     | 25     | 11,14  |
+| 88    | 11     | 13      | 10     | 30       | 11     | 14     | 15    | 11     | 13     | 25     | 11,14  |
+| 82    | 11     | 13      | 13     | 31       | 10     | 15     | 16    | 11     | 13     | 24     | 14,15  |
+| 78    | 10     | 13      | 11     | 30       | 11     | 14     | 16    | 11     | 13     | 25     | 11,14  |
+| 75    | 10     | 13      | 10     | 30       | 11     | 14     | 16    | 11     | 13     | 25     | 10,14  |
+| 73    | 10     | 13      | 11     | 29       | 11     | 14     | 15    | 11     | 13     | 25     | 11,14  |
+| 70    | 10     | 13      | 10     | 30       | 11     | 14     | 15    | 11     | 13     | 25     | 11,14  |
+
+[Poprawiona tabela z walidatora, za pomocą opcji Search](PBIO-Y12-TASK23_validated.xlsx)
+
 ## TASK 24
+
 
 ## TASK 25
 
 ## TASK 26
+
+```python
+def compare_dna_sequences(seq1, seq2):
+    if len(seq1) != len(seq2):
+        print("Sekwencje różnej długości")
+        return
+    result = []
+    for i in range(len(seq1)):
+        if seq1[i] != seq2[i]:
+            result.append((i+1, seq1[i], seq2[i]))
+    return result
+
+seq1 = input("Podaj sekwencję DNA 1: ")
+seq2 = input("Podaj sekwencję DNA 2: ")
+print(compare_dna_sequences(seq1, seq2))
+```
 
 ## TASK 27
