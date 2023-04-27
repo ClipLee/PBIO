@@ -57,7 +57,11 @@ Oznaczają prawdopodobieństwo wartości pH, Pe i pC, dla przewidzianej (H) heli
 
 ## TASK 10
 
+Oznacza numer przewidzianych helis transmembranowych.
+
 ## TASK 11
+
+Exp number of AAs in TMHs: 159.47336
 
 ## TASK 12
 
