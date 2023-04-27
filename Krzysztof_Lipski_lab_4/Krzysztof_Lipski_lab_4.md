@@ -61,9 +61,11 @@ Oznacza numer przewidzianych helis transmembranowych.
 
 ## TASK 11
 
-Exp number of AAs in TMHs: 159.47336
+Exp number of AAs in TMHs: 159.47336 — oczekiwana liczba aminokwasów w helisach transmembranowych
 
 ## TASK 12
+
+Największe prawdopodobieństwo transmembranowych helis jest w okolicach 75-100, 100-140, 150-170,. 190-220, 240-250, 325-350 i 360-380. Najpierw wartość 1 posiada wewnątrzkomórkowa strona błony, a następnie zewnętrzna, po czym po transmembranowych helisach następuje ich zamiana.
 
 ## TASK 13
 
