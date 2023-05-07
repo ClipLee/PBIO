@@ -69,11 +69,22 @@ Największe prawdopodobieństwo transmembranowych helis jest w okolicach 75-100,
 
 ## TASK 13
 
+Analiza z pierwszej strony wydaje się być bardziej dokładna, oraz przedstawiać więcej szczegółów. Druga strona dodatkowo przedstawia najbardziej prawdopodobną topologię dla typu alpha TM.
+
 ## TASK 14
+
+![](C:\Users\klips\Documents\PJATK\6 - Letni\PBIO\PBIO\Krzysztof_Lipski_lab_4\task4_protein_MembraneFold.png)
 
 ## TASK 15
 
+Membrane fold łączy dwa typy narzędzi przewidywania sekwencji protein:
+
+- strukturę protein (AlphaFold, OmegaFold i transmembranową topologie protein)
+- zestaw narzędzi Mol* w celu wizualizacji
+
 ## TASK 16
+
+
 
 ## TASK 17
 
