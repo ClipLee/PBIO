@@ -84,13 +84,19 @@ Membrane fold łączy dwa typy narzędzi przewidywania sekwencji protein:
 
 ## TASK 16
 
-
+**PDB DOI:** [https://doi.org/10.2210/pdb4UUM/pdb](https://doi.org/10.2210/pdb4UUM/pdb)
 
 ## TASK 17
 
+![](C:\Users\klips\Documents\PJATK\6 - Letni\PBIO\PBIO\Krzysztof_Lipski_lab_4\task 17.jpeg)
+
 ## TASK 18
 
+Pierwszy aminokwas tego białka to META, jest to Metionina.
+
 ## TASK 19
+
+Są to koordynaty (oś x, y i z) atomów, które są częścią proteiny. Są one podane w angstremach (Å).
 
 ## TASK 20
 
@@ -101,19 +107,3 @@ Membrane fold łączy dwa typy narzędzi przewidywania sekwencji protein:
 ## TASK 23
 
 ## TASK 24
-
-## TASK 25
-
-## TASK 26
-
-## TASK 27
-
-## TASK 28
-
-## TASK 29
-
-## TASK 30
-
-## TASK 31
-
-## TASK 32
