@@ -100,6 +100,8 @@ Są to koordynaty (oś x, y i z) atomów, które są częścią proteiny. Są on
 
 ## TASK 20
 
+Opcja *Fast* korzysta z metod przypisania: sekwencja-sekwencja i sekwencja-profil
+
 ## TASK 21
 
 ## TASK 22
@@ -107,3 +109,15 @@ Są to koordynaty (oś x, y i z) atomów, które są częścią proteiny. Są on
 ## TASK 23
 
 ## TASK 24
+
+```python
+sekwencja_białkowa = input("Podaj sekwencję białkową: ")
+char = "*"
+output = ""
+for i in sekwencja_białkowa:
+    if i == "P":
+        output += char + i
+    else:
+        output += i
+print(output)
+```
