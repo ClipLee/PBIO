@@ -118,6 +118,8 @@ Według dokumentacji strony *modbase.compbio.ucsf.edu*, dane można uznać za wi
 
 Struktura białka 4UUL, pobrana ze strony www.rcs.org, z odnośnika z [wygenerowanego modelu](https://modbase.compbio.ucsf.edu/modbase-cgi/model_details.cgi?queryfile=1683623934_6314&searchmode=default&displaymode=moddetail&seq_id=aa1c038aaa2d48fbd72da4436c1ed4bcMSEAAQGG).
 
+![](C:\Users\klips\Documents\PJATK\6 - Letni\PBIO\PBIO\Krzysztof_Lipski_lab_4\task23.png)
+
 ## TASK 24
 
 ```python
