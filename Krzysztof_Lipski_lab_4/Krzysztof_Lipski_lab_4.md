@@ -104,9 +104,19 @@ Opcja *Fast* korzysta z metod przypisania: sekwencja-sekwencja i sekwencja-profi
 
 ## TASK 21
 
+- No. of sequences submitted: 1
+- No. of hits detected : 79
+- No. of models calculated : 56
+- Model selection criteria : MPQS TSVMOD LONGEST_DOPE DOPE
+- No. of models selected : 1
+
 ## TASK 22
 
+Według dokumentacji strony *modbase.compbio.ucsf.edu*, dane można uznać za wiarygodne.
+
 ## TASK 23
+
+Struktura białka 4UUL, pobrana ze strony www.rcs.org, z odnośnika z [wygenerowanego modelu](https://modbase.compbio.ucsf.edu/modbase-cgi/model_details.cgi?queryfile=1683623934_6314&searchmode=default&displaymode=moddetail&seq_id=aa1c038aaa2d48fbd72da4436c1ed4bcMSEAAQGG).
 
 ## TASK 24
 
