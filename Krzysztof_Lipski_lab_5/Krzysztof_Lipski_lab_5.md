@@ -11,13 +11,25 @@ lang: pl
 
 ## TASK 1
 
+![zrzut ekranu pierwszej strony apublikacji](task1.jpeg)
+
 ## TASK 2
+
+[Database Summary Paper Categories (oxfordjournals.org)](https://www.oxfordjournals.org/nar/database/c/)
 
 ## TASK 3
 
+Co dwa miesiące.
+
 ## TASK 4
 
+Nazwa to "MGDB", znajduje się ona pod linkiem: <http://bioinfo.ahu.edu.cn:8080/Melanoma/>
+
 ## TASK 5
+
+Dla 2 z 7 alleli aspiryna podnosi ryzyko chorób autoimmunologicznych.
+
+<img src="task5.jpeg"  />
 
 ## TASK 6
 
