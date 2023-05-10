@@ -131,7 +131,113 @@ W latach 90. XX w. szacowano, że liczba ludzkich genów wynosi ponad 100 tysię
 
 ## TASK 14
 
+Chromosomy są uporządkowane po kolei od 1 do 18,, potem 20, 19, Y, 22 i 21.
+
 ## TASK 15
+
+```
+
+1. Homo sapiens chromosome 1, GRCh38.p14 Primary Assembly
+248,956,422 bp linear DNA 
+NC_000001.11 GI:568815597
+
+2. Homo sapiens chromosome 2, GRCh38.p14 Primary Assembly
+242,193,529 bp linear DNA 
+NC_000002.12 GI:568815596
+
+3. Homo sapiens chromosome 3, GRCh38.p14 Primary Assembly
+198,295,559 bp linear DNA 
+NC_000003.12 GI:568815595
+
+4. Homo sapiens chromosome 4, GRCh38.p14 Primary Assembly
+190,214,555 bp linear DNA 
+NC_000004.12 GI:568815594
+
+5. Homo sapiens chromosome 5, GRCh38.p14 Primary Assembly
+181,538,259 bp linear DNA 
+NC_000005.10 GI:568815593
+
+6. Homo sapiens chromosome 6, GRCh38.p14 Primary Assembly
+170,805,979 bp linear DNA 
+NC_000006.12 GI:568815592
+
+7. Homo sapiens chromosome 7, GRCh38.p14 Primary Assembly
+159,345,973 bp linear DNA 
+NC_000007.14 GI:568815591
+
+8. Homo sapiens chromosome X, GRCh38.p14 Primary Assembly
+156,040,895 bp linear DNA 
+NC_000023.11 GI:568815575
+
+9. Homo sapiens chromosome 8, GRCh38.p14 Primary Assembly
+145,138,636 bp linear DNA 
+NC_000008.11 GI:568815590
+
+10. Homo sapiens chromosome 9, GRCh38.p14 Primary Assembly
+138,394,717 bp linear DNA 
+NC_000009.12 GI:568815589
+
+11. Homo sapiens chromosome 11, GRCh38.p14 Primary Assembly
+135,086,622 bp linear DNA 
+NC_000011.10 GI:568815587
+
+12. Homo sapiens chromosome 10, GRCh38.p14 Primary Assembly
+133,797,422 bp linear DNA 
+NC_000010.11 GI:568815588
+
+13. Homo sapiens chromosome 12, GRCh38.p14 Primary Assembly
+133,275,309 bp linear DNA 
+NC_000012.12 GI:568815586
+
+14. Homo sapiens chromosome 13, GRCh38.p14 Primary Assembly
+114,364,328 bp linear DNA 
+NC_000013.11 GI:568815585
+
+15. Homo sapiens chromosome 14, GRCh38.p14 Primary Assembly
+107,043,718 bp linear DNA 
+NC_000014.9 GI:568815584
+
+16. Homo sapiens chromosome 15, GRCh38.p14 Primary Assembly
+101,991,189 bp linear DNA 
+NC_000015.10 GI:568815583
+
+17. Homo sapiens chromosome 16, GRCh38.p14 Primary Assembly
+90,338,345 bp linear DNA 
+NC_000016.10 GI:568815582
+
+18. Homo sapiens chromosome 17, GRCh38.p14 Primary Assembly
+83,257,441 bp linear DNA 
+NC_000017.11 GI:568815581
+
+19. Homo sapiens chromosome 18, GRCh38.p14 Primary Assembly
+80,373,285 bp linear DNA 
+NC_000018.10 GI:568815580
+
+20. Homo sapiens chromosome 20, GRCh38.p14 Primary Assembly
+64,444,167 bp linear DNA 
+NC_000020.11 GI:568815578
+
+21. Homo sapiens chromosome 19, GRCh38.p14 Primary Assembly
+58,617,616 bp linear DNA 
+NC_000019.10 GI:568815579
+
+22. Homo sapiens chromosome Y, GRCh38.p14 Primary Assembly
+57,227,415 bp linear DNA 
+NC_000024.10 GI:568815574
+
+23. Homo sapiens chromosome 22, GRCh38.p14 Primary Assembly
+50,818,468 bp linear DNA 
+NC_000022.11 GI:568815576
+
+24. Homo sapiens chromosome 21, GRCh38.p14 Primary Assembly
+46,709,983 bp linear DNA 
+NC_000021.9 GI:568815577
+
+25. Homo sapiens mitochondrion, complete genome
+16,569 bp circular DNA 
+NC_012920.1 GI:251831106
+
+```
 
 ## TASK 16
 
