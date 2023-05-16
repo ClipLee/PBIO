@@ -300,28 +300,63 @@ AWTRGACTTRGGCTTAACAAG
 
 ## TASK 22
 
+Jest to Fasarium poae - gatunek grzybów.
+
 ## TASK 23
+
+37,7  Mb
 
 ## TASK 24
 
+Contig N50: 62 040 b
+
+Jest to długość sekwencji, która jest osiągana przez 50% całkowitej długości sekwencji.
+
 ## TASK 25
+
+Lipaza Q05469 
 
 ## TASK 26
 
+Biorę inny: **Colipase** P04118 i jest cofactorem pancreatic lipase
+
 ## TASK 27
+
+3D structure databases:
+
+- [AlphaFoldDB](https://www.uniprot.org/database?query=(name:AlphaFoldDB)&direct)
+  - [P04118](https://alphafold.ebi.ac.uk/entry/P04118)
+- [SMR](https://www.uniprot.org/database?query=(name:SMR)&direct)
+  - [P04118](https://swissmodel.expasy.org/repository/uniprot/P04118?csm=772872EBBE7C4DF8)
+- [ModBase](https://www.uniprot.org/database?query=(name:ModBase)&direct)
+  - [Search…](https://salilab.org/modbase-cgi/model_search.cgi?searchkw=name&kword=P04118)
 
 ## TASK 28
 
+Enzymy o tym samym numerze EC mogą występować u różnych gatunków, ale ich sekwencje aminokwasowe są różne. Różnice te wynikają z mutacji i zmian w sekwencjach DNA w trakcie ewolucji 
+
 ## TASK 29
+
+202
 
 ## TASK 30
 
+Jest to gen kodujący receptor Dopaminy D3
+
 ## TASK 31
+
+Odmiana polimorfizmu: [rs167771](https://www.snpedia.com/index.php/Rs167771)
+
+Fenotyp: Individuals carrying the AA variant of the rs167771 SNP scored significantly higher on the IS-factor (resp U = 590, p < .01), indicating more rigid behavior than individuals carrying one or two copies of the minor G-allele.
 
 ## TASK 32
 
+29 903 bp
+
 ## TASK 33
+
+Grudzień 2019
 
 ## TASK 34
 
-## TASK 35
+MFVFLVLLPLVSSQCVNLTTRTQLPPAYTNSFTRGVYYPDKVFRSSVLHSTQDLFLPFFSNVTWFHAIHVSGTNGTKRFDNPVLPFNDGVYFASTEKSNIIRGWIFGTTLDSKTQSLLIVNNATNVVIKVCEFQFCNDPFLGVYYHKNNKSWMESEFRVYSSANNCTFEYVSQPFLMDLEGKQGNFKNLREFVFKNIDGYFKIYSKHTPINLVRDLPQGFSALEPLVDLPIGINITRFQTLLALHRSYLTPGDSSSGWTAGAAAYYVGYLQPRTFLLKYNENGTITDAVDCALDPLSETKCTLKSFTVEKGIYQTSNFRVVPSGDVVRFPNITNLCPFGEVFNATRFASVYAWNRKRISNCVADYSVLYNSASFSTFKCYGVSPTKLNDLCFTNVYADSFVVKGDDVRQIAPGQTGKIADYNYKLPDDFMGCVLAWNTRNIDATSTGNYNYKYRYLRHGKLRPFERDISNVPFSPDGKPCTPPALNCYWPLNDYGFYTTTGIGYQPYRVVVLSFELLNAPATVCGPKLSTDLIKNQCVNFNFNGLTGTGVLTESNKKFLPFQQFGRDIADTTDAVRDPQTLEILDITPCSFGGVSVITPGTNASSEVAVLYQDVNCTEVPVAIHADQLTPTWRVYSTGSNVFQTWCFDNPYKFVDGNCTHVLYDSDKIQLDEEAN
