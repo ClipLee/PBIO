@@ -35,8 +35,6 @@ lang: pl
 
 ## TASK 13
 
-50 818 468 bp
-
 ## TASK 14
 
 ## TASK 15
@@ -54,8 +52,6 @@ lang: pl
 ## TASK 20
 
 ## TASK 21
-
-## TASK 22
 
 ## TASK 23
 
