@@ -56,23 +56,3 @@ lang: pl
 ## TASK 23
 
 ## TASK 24
-
-## TASK 25
-
-## TASK 26
-
-## TASK 27
-
-## TASK 28
-
-## TASK 29
-
-## TASK 30
-
-## TASK 31
-
-## TASK 32
-
-## TASK 33
-
-## TASK 34
