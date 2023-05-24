@@ -389,20 +389,82 @@ Informacje bazowałem na [dokumentacji](https://emboss.sourceforge.net/docs/them
 
 ## TASK 15
 
+Korzystam z narzędzia FinchTV.
+
+Są to oznaczenia tych nukleotydów, które nie zostały zidentyfikowane.
+
+- N jako nukleotydy, których nie udało się zidentyfikować jako:
+  - adeniny (A),
+  - cytozyny (C),
+  - guaniny (G)
+- M jako nukleotydy, których nie udało się zidentyfikować jako:
+  - tyminy (T),
+  - uracyl (U)
+
 ## TASK 16
 
-## TASK 22
+Jako dwa pierwsze rekordy z % identyfikacją spekuluję, że jest to **Lysinibacillus sp**, czyli Lysinibacillus sphaericus - bakteria występująca w glebie.
 
 ## TASK 17
 
+Lysinibacillus sphaericus zistał wyizolowany poraz pierwszy w 1982 roku.
+
+Bakteria została odizolowana z ciała larwy *Culiseta incidens* - mchówka z rodziny komarowatych.
+
 ## TASK 18
+
+ BG2-10 16S ribosomal gene
 
 ## TASK 19
 
+ Lysinibacillus to rodzaj gram-dodatnich **bakterii**.
+
 ## TASK 20
+
+```text
+TGC-AGTCGAGCGAACAGAGAAGGAGCTTGCTCCTTCGACGTTAGCGGCGGACGGGTGAGTAACACGTGGGCAACCTACCTTATAGTTTGGGATAACTCCGGGAAACCGGGGCTAATACC
+```
 
 ## TASK 21
 
+"." - dowolny nukleotyd, tożsamość/identity, zgodność z innymi
+
+"-" - brak nukleotydu
+
+Jeśli w miejscu kropki znajduje się nukleotyd, oznacza to, że jest to jednoliterowy skrót niezgodnośc pomiędzy badanymi sekwencjami.
+
+## TASK 22
+
+```text
+Query: None Query ID: lcl|Query_106413 Length: 119
+
+
+Query range 1: 1 to 120
+
+Query        1    TGC-AGTCGAGCGAACAGAGAAGGAGCTTGCTCCTTCGACGTTAGCGGCGGACGGGTGAGTAACACGTGGGCAACCTACCTTATAGTTTGGGATAACTCCGGGAAACCGGGGCTAATACC  119
+NR_112628.1  29   ...A....................................................................................................................  148
+NR_042072.1  39   ...A....................................................................................................................  158
+NR_112569.1  29   ...A....................................................................................................................  148
+NR_134074.1  21   ...-................................T...........................................C.......................................  139
+NR_114207.1  29   ...A................................T...................................................................................  148
+NR_118146.1  19   ...-................................T...........................................C.......................................  137
+NR_114920.1  29   ...A............................................................................C.......................................  148
+```
+
 ## TASK 23
 
+![image-20230524020307273](C:\Users\klips\Documents\PJATK\6 - Letni\PBIO\PBIO\Krzysztof_Lipski_lab_6\task23)
+
+Są to:
+
+- A
+- A
+- A
+- T, C
+- A, T
+- T, C
+- A, C
+
 ## TASK 24
+
+Jest to adenina (A). Wszystkie sekwencje się nim różnią od mojej, a w dwóch go brakuje (-).
