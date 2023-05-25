@@ -11,7 +11,11 @@ lang: pl
 
 ## TASK 1
 
+iris.tab
+
 ## TASK 2
+
+Zawiera datset z 150 instancjami setosys, Iris virginica i Iris versicolor.
 
 ## TASK 3
 
@@ -21,9 +25,13 @@ lang: pl
 
 ## TASK 6
 
+![TASK 6](C:\Users\klips\Documents\PJATK\6 - Letni\PBIO\PBIO\Krzysztof_Lipski_lab_11\TASK 6)
+
 ## TASK 7
 
 ## TASK 8
+
+150
 
 ## TASK 9
 

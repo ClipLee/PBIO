@@ -21,10 +21,7 @@ lang: pl
 
 ## TASK 6
 
-
 ## TASK 7
-
-rs333
 
 ## TASK 8
 
