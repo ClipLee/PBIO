@@ -27,6 +27,8 @@ Przez wykres przeciąga się jedna ukośna linia od 0,0 do 400,400. Im większa 
 
 ## TASK 5
 
+Ograncizeniem jest na przykład ilość danych, któe można wyświetlić. Najlepiej sprawdzają się dla małych ilości danych. Są cięzkie do rozczytania w przypadku większej ilości danych.
+
 ## TASK 6
 
 Jako, że wartości zanikają i jest to porównanie dwóch sekwencji, opisałbym treshold (pol. próg), jako próg podobienstwa, przy którym jest "stawiana" kropka.
