@@ -126,6 +126,10 @@ print("Częstotliwość dla allelu a:", "{:.2f}".format(czestotliwosc_A))
 
 ## TASK 13-15
 
+```python
+
+```
+
 ## TASK 16
 
 ## TASK 17
