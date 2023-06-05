@@ -35,7 +35,6 @@ print("Liczba adenin: ", licznik_adeniny)
 print("Liczba cytozyn: ", licznik_cytozyny)
 print("Liczba guanin: ", licznik_guaniny)
 print("Liczba tymin: ", licznik_tyminy)
-
 ```
 
 ## TASK 3-5
@@ -48,7 +47,6 @@ sekwencja_rna = sekwencja_dna.replace("T", "U")
 
 print("Sekwencja RNA: ", sekwencja_rna)
 print("Długość sekwencji RNA: ", len(sekwencja_rna))
-
 ```
 
 ## TASK 6-8
@@ -85,8 +83,6 @@ masa = sum([amino_acid_masses[a] for a in peptyd])
 
 # Wynik
 print("Masa cząsteczkowa peptydu: ", round(masa, 2))
-
-
 ```
 
 ## TASK 9-10
@@ -102,20 +98,33 @@ procent_gc = liczba_gc / len(sekwencja_dna) * 100
 
 # Wyświetlenie wyniku
 print("Procentowa zawartość par zasad GC: {:.2f}%".format(procent_gc))
-
 ```
 
 ## TASK 11-12
 
-```pytho
+```python
+# Dane wejściowe
+homozygoty_dominujace = 100
+heterozygoty = 200
+homozygoty_recesywne = 100
+# dalej już Twój kod
 
+# Liczba alleli
+liczba_alleli = homozygoty_dominujace + heterozygoty + homozygoty_recesywne
+
+# Występowanie allelu dominującego (A)
+czestotliwosc_a = (2 * homozygoty_dominujace +
+                   heterozygoty) / (2 * liczba_alleli)
+
+# Występowanie allelu recesywnego (a)
+czestotliwosc_A = 1 - czestotliwosc_a
+
+# Wyświetlenie wyniku
+print("Częstotliwość dla allelu A:", "{:.2f}".format(czestotliwosc_a))
+print("Częstotliwość dla allelu a:", "{:.2f}".format(czestotliwosc_A))
 ```
 
-## TASK 13
-
-## TASK 14
-
-## TASK 15
+## TASK 13-15
 
 ## TASK 16
 
