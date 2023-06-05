@@ -123,28 +123,67 @@ CYP2C18 i CYP2C19
 
 ## TASK 22
 
+Oznacza to, że analizowana osoba ma genotyp GA, czyli posiada jedną kopię allelu z "G"   jedną z "A" dla tej pozycji.
+
 ## TASK 23
+
+Osoby z tym genotypem moga mieć zmiejszoną skuteczność leku Clopidogrel i zwiększone ryzyko wystąpienia powikłań sercowo-naczyniowych.
 
 ## TASK 24
 
+Służy do wykrywania wariantów genetycznych w próbkach sekwencjonowanych.
+
+Generuje plik mpileup, który ma informacje o pokryciu sekwencji i zidentyfikowanych wariantach genetycznych.
+
 ## TASK 25
+
+| ##contig=<ID=chr10,length=135534747> |
+| ------------------------------------ |
 
 ## TASK 26
 
+~600,000 linii
+
 ## TASK 27
+
+Różnica ta wynika z faktu, że narzędzie bcftools mpileup służy do szacowania prawdopodobieństwa genotypów w każdej pozycji genomu na podstawie danych sekwencjonowania. Natomiast narzędzie bcftools call identyfikuje zarówno warianty, jak i genotypy, czyli dokonuje właściwego wywołania.
+
+bcftools mpileup zawiera informacje o pokryciu sekwencji i prawdopodobieństwie genotypów w każdej pozycji genomu. Natomiast plik bcftools call zawiera informacje o zidentyfikowanych wariantach genetycznych i przypisanych im genotypach
 
 ## TASK 28
 
+idąc od 1 jako POS 96400844
+
+1. AA, ponieważ jest 1/1 i alt to A
+
+2. CG, ponieważ jest 0/1 i ref: C,  alt: G
+
+3. TT, ponieważ jest 0/1 i z `atttttttttttttt` mamy T, oraz z `aTTTTtttttttttttttt`, tak samo T dominuje
+
 ## TASK 29
+
+Jest to głębokość czytania sekwencji. Czyli np jak 23 "szare paski" - odczyty nachodzą na siebie, będzie to głębokość DP = 23. W rekordzie 1 DP = 196, czyli 196 odczytów sekwencji (sequence reads) nachodzi na siebie w tym miejscu.
 
 ## TASK 30
 
+**bcftools counts** — to narzędzie do zliczania liczby próbek, SNP-ów, INDEL-ów, MNPs i całkowitej liczby miejsc w pliku VCF.
+
 ## TASK 31
+
+Po kolei: SNPs, INDELs, MNPs i inne.
 
 ## TASK 32
 
+SNP to  Single Nucleotide Polymorphism, INDEL to Insertion/Deletion, a MNP to Multiple Nucleotide Polymorphism.
+
 ## TASK 33
+
+VCFfilter to narzędzie do filtrowania wariantów w pliku VCF, pozwala na wybranie różnych atrybutów takich jak jakość wariantu, głębokość pokrycia sekwencji czy liczba próbek z danym wariantem.
 
 ## TASK 34
 
+QUAL > 200 oznacza, że zostaną wybrane tylko te warianty, których jakość (QUAL) jest większa niż 200.
+
 ## TASK 35
+
+## TASK 36
