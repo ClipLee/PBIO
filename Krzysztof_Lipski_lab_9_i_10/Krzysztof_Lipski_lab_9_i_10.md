@@ -12,47 +12,104 @@ lang: pl
 ## TASK 1-2
 
 ```python
-dna_seq = "GTCATCCTCATCCTGATAAACTGCAAAAGGCTGAAGAGCATGACTGACATCTACCTGCTCAACCTGGCCATCTCTGACCTGTTTTTCCTTCTTACTGTCCCCTTCTGGGCTCACTATGCTGCCGCCCAGTGGGACTTTGGAAATACAATGTGTCAACTCTTGACAGGGCTCTATTTTATAGGCTTCTTCTCTGGAATCTTCTTCATCATCCTCCTGACAATCGATAGGTACCTGGCTGTCGTCCATGCTGTGTTTGCTTTAAAAGCCAGGACGGTCACCTTTGGGGTGGTGACAAGTGTGATCACTTGGGTGGTGGCTGTGTTTGCGTCTCTCCCAGGAATCATCTTTACCAGATCTCAAAAAGAAGGTCTTCATTACACCTGCAGCTCTCATTTTCCATACAGTCAGTATCAATTCTGGAAGAATTTCCAGACATTAAAGATAGTCATCTTGGGGCTGGTCCTGCCGCTGCTTGTCATGGTCATCTGCTACTCGGGAATCCTAAAAACTCTGCTTCGGTGTCGAAATGAGAAGAAGAGGCACAGGGCTGTGAGGCTTATCTTCACCATCATGATTGTTTATTTTCTCTTCTGGGCTCCCTACAACATTGTCCTTCTCCTGAACACCTTCCAGGAATTCTTTGGCCTGAATAATTGCAGTAGCTCTAACAGGTTGGACCAAGCTATGCAGGTGACAGAGACTCTTGGGATGACGCACTGCTGCATCAACCCCATCATCTATGCCTTTGTCGGGGAGAAGTTCAGAAACTACCTCTTAGTCTTCTTCCAAAAGCACATTGCCAAACGCTTCTGCAAATGCTGTTCTATTTTCCAGC"
+dna_seq = input("Podaj sekwencję DNA: ")
 
-licz_adenina = 0
-licz_cytozyna = 0
-licz_guanina = 0
-licz_tymina = 0
+# Zainicjowanie liczników nukleotydów
+licznik_adeniny = 0
+licznik_cytozyny = 0
+licznik_guaniny = 0
+licznik_tyminy = 0
 
+# Przejście przez każdy nukleotyd w sekwencji DNA
 for nukleotyd in dna_seq:
     if nukleotyd == "A":
-        licz_adenina += 1
+        licznik_adeniny += 1
     elif nukleotyd == "C":
-        licz_cytozyna += 1
+        licznik_cytozyny += 1
     elif nukleotyd == "G":
-        licz_guanina += 1
+        licznik_guaniny += 1
     elif nukleotyd == "T":
-        licz_tymina += 1
+        licznik_tyminy += 1
 
-print("Liczba adenin: ", licz_adenina)
-print("Liczba cytozyn: ", licz_cytozyna)
-print("Liczba guanin: ", licz_guanina)
-print("Liczba tymin: ", licz_tymina)
+print("Liczba adenin: ", licznik_adeniny)
+print("Liczba cytozyn: ", licznik_cytozyny)
+print("Liczba guanin: ", licznik_guaniny)
+print("Liczba tymin: ", licznik_tyminy)
 
 ```
 
-## TASK 3
+## TASK 3-5
 
-## TASK 4
+```python
+sekwencja_dna = input("Podaj sekwencję DNA: ")
 
-## TASK 5
+# Podmiana wystąpień tyminy i uracylu
+sekwencja_rna = sekwencja_dna.replace("T", "U")
 
-## TASK 6
+print("Sekwencja RNA: ", sekwencja_rna)
+print("Długość sekwencji RNA: ", len(sekwencja_rna))
 
-## TASK 7
+```
 
-## TASK 8
+## TASK 6-8
 
-## TASK 9
+```python
+# Słownik zawierający masy aminokwasów
+amino_acid_masses = {
+    "A": 89.094,
+    "C": 121.154,
+    "D": 133.104,
+    "E": 147.131,
+    "F": 165.192,
+    "G": 75.067,
+    "H": 155.156,
+    "I": 131.175,
+    "K": 146.189,
+    "L": 131.175,
+    "M": 149.208,
+    "N": 132.119,
+    "P": 115.132,
+    "Q": 146.146,
+    "R": 174.203,
+    "S": 105.093,
+    "T": 119.120,
+    "V": 117.148,
+    "W": 204.228,
+    "Y": 181.191,
+}
 
-## TASK 10
+peptyd = input("Podaj sekwencję peptydu: ")
 
-## TASK 11
+# Masa cząsteczkowa peptydu
+masa = sum([amino_acid_masses[a] for a in peptyd])
+
+# Wynik
+print("Masa cząsteczkowa peptydu: ", round(masa, 2))
+
+
+```
+
+## TASK 9-10
+
+```python
+sekwencja_dna = "ATGCTACGATCGTACGGCGCAAATAGCTAGCTAGCTAGC"
+
+# Liczba par zasad GC w sekwencji
+liczba_gc = sekwencja_dna.count("G") + sekwencja_dna.count("C")
+
+# Procentowej zawartość par zasad GC
+procent_gc = liczba_gc / len(sekwencja_dna) * 100
+
+# Wyświetlenie wyniku
+print("Procentowa zawartość par zasad GC: {:.2f}%".format(procent_gc))
+
+```
+
+## TASK 11-12
+
+```pytho
+
+```
 
 ## TASK 13
 
