@@ -33,7 +33,7 @@ HISEQ
 3. +
 
 4. @@@DDDDADHFHHIB@;FF3GHGEFEB>G9CF:FFFGD9BBFAGGGEA@)=@@FCC@EGEFBD@DDECCCC@@A@>@ACCCBB@CC(5@>8<::@CC>AACCCBBBB@CACCC?
-
+   
    Dodatkowo w podglądzie był jeszcze ciąg znaków: C?C?34(:A@<5<.>0.
 
 ## TASK 5
@@ -119,8 +119,32 @@ chr10
 
 ## TASK 21
 
+CYP2C18 i CYP2C19
+
 ## TASK 22
 
 ## TASK 23
 
 ## TASK 24
+
+## TASK 25
+
+## TASK 26
+
+## TASK 27
+
+## TASK 28
+
+## TASK 29
+
+## TASK 30
+
+## TASK 31
+
+## TASK 32
+
+## TASK 33
+
+## TASK 34
+
+## TASK 35
