@@ -34,7 +34,7 @@ HISEQ
 
 4. @@@DDDDADHFHHIB@;FF3GHGEFEB>G9CF:FFFGD9BBFAGGGEA@)=@@FCC@EGEFBD@DDECCCC@@A@>@ACCCBB@CC(5@>8<::@CC>AACCCBBBB@CACCC?
 
- Dodatkowo w podglądzie był jeszcze ciąg znaków: C?C?34(:A@<5<.>0.
+   Dodatkowo w podglądzie był jeszcze ciąg znaków: C?C?34(:A@<5<.>0.
 
 ## TASK 5
 
@@ -78,15 +78,14 @@ W sekwencjonowaniu error rate oznacza procent baz wywołanych niepoprawnie w dow
 
 Ilość AT oraz CG powinna się zgadzać, ponieważ DNA składa się z par zasad azotowych:
 
-- adeniny (A) łączącej się z tyminą (T) 
-
-- cytozyny © łączącej się z guaniną (G).
++ adeniny (A) łączącej się z tyminą (T)
++ cytozyny © łączącej się z guaniną (G).
 
 W każdej parze zasad azotowych ilość A powinna być równa ilości T, a ilość C równa ilości G. Dlatego też, jeśli ilość AT oraz CG nie zgadza się, może to wskazywać na obecność błędów w sekwencjonowaniu.
 
 ## TASK 13
 
-N w sekwencji DNA pochodzącej z sekwencjonowania oznacza, że sekwencer nie był w stanie dokonać poprawnego wywołania "basee call" zasady azotowej w danym miejscu i zastąpił ją literą N. 
+N w sekwencji DNA pochodzącej z sekwencjonowania oznacza, że sekwencer nie był w stanie dokonać poprawnego wywołania "basee call" zasady azotowej w danym miejscu i zastąpił ją literą N.
 
 Wartość Per base N content pokazuje procentowy udział N w każdym cyklu sekwencjonowania
 
