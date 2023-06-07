@@ -186,4 +186,12 @@ QUAL > 200 oznacza, że zostaną wybrane tylko te warianty, których jakość (Q
 
 ## TASK 35
 
+$$
+\frac{249}{308} \approx 0.80 \text{ zmienności}
+$$
+
+Czyli daje nam to 80% spełniających zadane przeze mnie warunki.
+
 ## TASK 36
+
+Mamy Ref: G i Alt: A, 0/1, czyli **GA**.
