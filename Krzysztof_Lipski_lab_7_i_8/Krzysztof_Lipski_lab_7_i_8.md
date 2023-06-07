@@ -33,7 +33,7 @@ HISEQ
 3. +
 
 4. @@@DDDDADHFHHIB@;FF3GHGEFEB>G9CF:FFFGD9BBFAGGGEA@)=@@FCC@EGEFBD@DDECCCC@@A@>@ACCCBB@CC(5@>8<::@CC>AACCCBBBB@CACCC?
-   
+
    Dodatkowo w podglądzie był jeszcze ciąg znaków: C?C?34(:A@<5<.>0.
 
 ## TASK 5
