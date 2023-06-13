@@ -126,21 +126,92 @@ print("Częstotliwość dla allelu a:", "{:.2f}".format(czestotliwosc_A))
 
 ## TASK 13-15
 
+Dane wejściowe:
+
+| Sekwencja | Własność1 | Własność2 |
+| --------- | --------- | --------- |
+| AAKLPLAR  | 1,2       | 3,5       |
+| KKLPARAA  | 0,8       | 3,1       |
+| LLPKARAA  | 1,1       | 2,9       |
+| LARPKKAA  | 1,4       | 4,2       |
+| KKALPRRA  | 0,9       | 3,8       |
+| RLPKALAA  | 1,6       | 4         |
+| LARAKKPA  | 1,3       | 3,3       |
+| KAAARPLR  | 1         | 2,7       |
+| ALRARKPA  | 1,5       | 3,9       |
+| RALKLPKA  | 1,7       | 4,1       |
+
 ```python
+import pandas as pd
+
+break_line = "\n" + 50*"-" + "\n"
+
+# Wczytanie danych z pliku Excel
+dataframe = pd.read_excel('Krzysztof_Lipski_lab_9_i_10/dane_sekwencji.xlsx')
+
+# Obliczenie statystyk dla każdej właściwości
+srednia_w1 = dataframe['Własność1'].mean()
+mediana_w1 = dataframe['Własność1'].median()
+odchylenie_std_w1 = dataframe['Własność1'].std()
+
+# Obliczenie statystyk dla każdej właściwości
+srednia_w2 = dataframe['Własność2'].mean()
+mediana_w2 = dataframe['Własność2'].median()
+odchylenie_std_w2 = dataframe['Własność2'].std()
+
+# Wyświetlenie wyników
+print("Średnia własność 1:" , srednia_w1)
+print("Mediana własność 1:", mediana_w1)
+print("Odchylenie standardowe własność 1:", odchylenie_std_w1)
+
+print(break_line)
+
+print("Średnia własność 2:" , srednia_w2)
+print("Mediana własność 2:", mediana_w2)
+print("Odchylenie standardowe własność 2:", odchylenie_std_w2)
+```
+
+## TASK 16-18
+
+Dane wejściowe
+
+```csv
+Grupa wiekowa,Liczba zaszczepionych
+0-17,150000
+18-29,500000
+30-49,750000
+50-64,850000
+65+,900000ty
+```
+
+Rozwiązanie
+
+```python
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Wczytanie danych z pliku CSV
+dane = pd.read_csv('Krzysztof_Lipski_lab_9_i_10/dane_szczepienia.csv')
+
+# Stworzenie wykresu słupkowego
+plt.bar(dane['Grupa wiekowa'], dane['Liczba zaszczepionych'])
+
+# Dodanie tytułu wykresu i opisu osi x i y
+plt.title('Liczba osób, które otrzymay szczepienie przeciwko COVID-19 w różnych grupach wiekowych')
+plt.xlabel('Grupa wiekowa')
+plt.ylabel('Liczba zaszczepionych')
+
+plt.show()
 
 ```
 
-## TASK 16
+Wynik
 
-## TASK 17
+![task16-18_result.png](C:\Users\klips\Documents\PJATK\6%20-%20Letni\PBIO\PBIO\Krzysztof_Lipski_lab_9_i_10\task16-18_result.png)
 
-## TASK 18
+## TASK 19-21
 
-## TASK 19
 
-## TASK 20
-
-## TASK 21
 
 ## TASK 22
 
