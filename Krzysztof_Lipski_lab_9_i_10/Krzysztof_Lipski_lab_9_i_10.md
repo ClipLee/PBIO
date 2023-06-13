@@ -202,7 +202,6 @@ plt.xlabel('Grupa wiekowa')
 plt.ylabel('Liczba zaszczepionych')
 
 plt.show()
-
 ```
 
 Wynik
@@ -237,7 +236,6 @@ print('Odchylenie standardowe dla drugiego zbioru danych:', odchylenie2)
 
 print('Statystyka t:', statystyka_t)
 print('P-wartość:', p_value)
-
 ```
 
 ## TASK 22-24
@@ -258,7 +256,11 @@ seq_protein = seq_rna.translate()
 print('Sekwencja DNA:', seq_dna)
 print('Sekwencja RNA:', seq_rna)
 print('Łańcuch białkowy:', seq_protein)
-
 ```
 
 ## TASK 25-29
+
+```python
+
+
+```

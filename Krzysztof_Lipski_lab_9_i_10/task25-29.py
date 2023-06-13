@@ -25,5 +25,4 @@ for record in records.split("\n\n"):
 
         print("Tytuł:", title)
         print("Autorzy:", authors)
-        print("Data publikacji:", date)
-        print("")
+        print("Data publikacji:", date, '\n')
