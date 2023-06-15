@@ -70,24 +70,80 @@ Służy m.in. do podziału zbioru na podzbiór treningowy i testowy (walidacyjny
 
 ## TASK 13
 
+Wyniki nie dają widocznie zauważalnej poprawy względem poprzedniego podejścia. 
+
+Metoda Test data działa poprzez uwzględnienie datasetu treningowego i testowego. Testowanie jest na zbiorze testowym, oraz na tej podstawie wyliczane są miary.
+
 ## TASK 14
+
+- Pobiera podzbiór testowy z nowego zbioru testowego `irist_test.tab`
+  
+  - Wyniki są trochę gorsze od testów na danych próbkowanych.
+
+- Poprzednio robiliśmy to na zbiorze `iris.tab`, który mógł dawać różne wyniki z powodu losowego próbkowania
 
 ## TASK 15
 
+2+3 = 5
+
+Pięć rekordów.
+
 ## TASK 16
+
+Najsłabsze wyniki otrzymałem na bazie modelu Naive Bayes z CA = 0.873 
 
 ## TASK 17
 
+Iris-setosa.
+
 ## TASK 18
+
+$11+8=19$
+
+19 błędów.
 
 ## TASK 19
 
+- Iris-setosa
+
+- Iris-setosa
+
+- Iris-virginica
+
 ## TASK 20
+
+Prawdopodobieństwa to wiersze, w kolumnach podane są gatunki.
+
+###### Logistic regresion
+
+|     | Iris-setosa | Iris-versicolor | Iris-virginica |
+| --- | ----------- | --------------- | -------------- |
+| 1.  | 0,00        | 0,03            | 0,97           |
+| 2.  | 0,97        | 0,03            | 0,00           |
+| 3.  | 0,98        | 0,02            | 0,00           |
+
+###### Tree
+
+|     | Iris-setosa | Iris-versicolor | Iris-virginica |
+| --- | ----------- | --------------- | -------------- |
+| 1.  | 0,00        | 0,02            | 0,98           |
+| 2.  | 1           | 0,00            | 0,00           |
+| 3.  | 1           | 0,00            | 0,00           |
 
 ## TASK 21
 
+Tak, model Neural Networ sklasyfikował do grupy Iris-versicolor drugą pozycję zamiast Iris-setosa
+
 ## TASK 22
 
-## TASK 23
+| Tree                                       | Tree (Iris-setosa) | Tree (Iris-versicolor) | Tree (Iris-virginica) | Logistic Regression                        | Logistic Regression (Iris-setosa) | Logistic Regression (Iris-versicolor) | Logistic Regression (Iris-virginica) | sepal length | sepal width | petal length | petal width | iris       |
+| ------------------------------------------ | ------------------ | ---------------------- | --------------------- | ------------------------------------------ | --------------------------------- | ------------------------------------- | ------------------------------------ | ------------ | ----------- | ------------ | ----------- | ---------- |
+| Iris-setosa Iris-versicolor Iris-virginica | continuous         | continuous             | continuous            | Iris-setosa Iris-versicolor Iris-virginica | continuous                        | continuous                            | continuous                           | continuous   | continuous  | continuous   | continuous  | continuous |
+| meta                                       | meta               | meta                   | meta                  | meta                                       | meta                              | meta                                  | meta                                 |              |             |              |             |            |
+| Iris-setosa                                | 1                  | 0                      | 0                     | Iris-setosa                                | 0,982114059                       | 0,017885924                           | 1,72142E-08                          | 5,2          | 3,6         | 1,4          | 0,3         |            |
+| Iris-setosa                                | 1                  | 0                      | 0                     | Iris-setosa                                | 0,966837812                       | 0,033162168                           | 1,93273E-08                          | 7,2          | 3,1         | 0,5          | 1,4         |            |
+| Iris-virginica                             | 0                  | 0,02173913             | 0,97826087            | Iris-virginica                             | 6,97904E-06                       | 0,032682651                           | 0,96731037                           | 6,1          | 1,3         | 5            | 2,5         |            |
 
-## TASK 24
+Wrzucam też zrzut ekranu, ponieważ przycina wklejoną z `.csv` tabelę.
+
+<img src="file:///C:/Users/klips/Documents/PJATK/6%20-%20Letni/PBIO/PBIO/Krzysztof_Lipski_lab_11/task22.png" title="" alt="task22.png" width="989">
