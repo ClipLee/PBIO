@@ -74,14 +74,38 @@ ATOM     10  HA  ASP     1       5.724 -22.341  20.087  1.00  0.00           H
 
 ## TASK 12
 
+```text
+>sp|Q94KT8|COBRA_ARATH Protein COBRA OS=Arabidopsis thaliana OX=3702 GN=COB PE=2 SV=1
+MESFFSRSTSIVSKLSFLALWIVFLISSSSFTSTEAYDALDPEGNITMKWDVMSWTPDGY
+VAVVTMFNFQKYRHIQSPGWTLGWKWAKKEVIWSMVGAQTTEQGDCSKYKGNIPHCCKKD
+PTVVDLLPGTPYNQQIANCCKGGVMNSWVQDPATAASSFQISVGAAGTTNKTVRVPRNFT
+LMGPGPGYTCGPAKIVRPTKFVTTDTRRTTQAMMTWNITCTYSQFLAQRTPTCCVSLSSF
+YNETIVGCPTCACGCQNNRTESGACLDPDTPHLASVVSPPTKKGTVLPPLVQCTRHMCPI
+RVHWHVKQNYKEYWRVKITITNFNYRLNYTQWNLVAQHPNLDNITQIFSFNYKSLTPYAG
+LNDTAMLWGVKFYNDFLSEAGPLGNVQSEILFRKDQSTFTFEKGWAFPRRIYFNGDNCVM
+PPPDSYPFLPNGGSRSQFSFVAAVLLPLLVFFFFSA
+```
+
 ## TASK 13
+
+![](https://cdn.discordapp.com/attachments/1067523914844086442/1119427809245401178/Bez_nazwy.png)
 
 ## TASK 14
 
+Wykres sequence coverage wygenerowany przez ColabFold przedstawia pokrycie sekwencji białka przez sekwencje w bazie danych - z modelu AlphaFold2, który przeprowadził predykcję struktury białka.
+
 ## TASK 15
+
+![](C:\Users\klips\Documents\PJATK\6%20-%20Letni\PBIO\PBIO\Krzysztof_Lipski_lab_12_i_13\task15.png)
 
 ## TASK 16
 
+Plik dołączony do zadania `aligned_proteins.pdb`.
+
 ## TASK 17
 
+Plik dołączony do zadania `strange_protein.pdb`.
+
 ## TASK 18-27
+
+Plik dołączony do zadania `additional_task.pdb`.
